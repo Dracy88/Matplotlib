@@ -1,2 +1,2 @@
 # Matplotlib
-A repository of the most used basic plots with some advanced plots and exercises.
+A repository of the most used basic plots with some advanced plots.
